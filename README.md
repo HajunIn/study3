@@ -1,6 +1,8 @@
 # study3
 
-A new Flutter project.
+코드 팩토리의 플러터 프로그래밍 
+
+일정 관리 앱
 
 ## Getting Started
 
